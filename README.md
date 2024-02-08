@@ -1,3 +1,5 @@
+deployed:- https://65c5201f9cee55028dacc820--eloquent-gumption-2eba4c.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
